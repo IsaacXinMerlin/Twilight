@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Your Content</name>
+		<update version="1.0.0">
+			<file name="user-Isaac.index" url="https://raw.githubusercontent.com/IsaacXinMerlin/repositoryname/master/user-Isaac.index" />
+		</update>
+	</info>
+	<files>
+		<file name="file1.xml" url="https://raw.githubusercontent.com/IsaacXinMerlin/repositoryname/Twilight/user-Isaac/file1.xml" />
+	</files>
+</index>
