@@ -3,7 +3,7 @@
 	<info>
 		<name>Your Content</name>
 		<update version="1.0.0">
-			<file name="user-Isaac.index" url="https://raw.githubusercontent.com/IsaacXinMerlin/repositoryname/master/user-Isaac.index" />
+			<file name="user-Isaac.index" url="https://raw.githubusercontent.com/IsaacXinMerlin/Twilight/master/user-Isaac.index" />
 		</update>
 	</info>
 	<files>
