@@ -7,6 +7,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/IsaacXinMerlin/repositoryname/Twilight/user-Isaac/file1.xml" />
+		<file name="file1.xml" url="https://raw.githubusercontent.com/IsaacXinMerlin/Twilight/master/user-Isaac/file1.xml" />
 	</files>
 </index>
