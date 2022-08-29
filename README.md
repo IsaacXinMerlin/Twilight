@@ -1,7 +1,7 @@
 # repositoryname
 additional content to extend [Aurora](https://aurorabuilder.com/), by Isaac
 
-index url: https://raw.githubusercontent.com/IsaacXinMerlin/repositoryname/Twilight/user-Isaac.index
+index url: https://raw.githubusercontent.com/IsaacXinMerlin/Twilight/master/user-Isaac.index
 
 ---
 
